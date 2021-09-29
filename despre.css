@@ -1,0 +1,66 @@
+.skills-list {
+    background-color: #2d3055;
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    vertical-align: middle;
+    color: #dc9c65;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    font-size: 24px;
+    margin-left: 20px;
+    height: 400px;
+    border-radius: 20%;
+}
+.skills-list ul {
+    list-style: none;  
+    margin: 0;
+    padding: 0;
+}
+.skills-list ul li{
+    margin: 10px 0;
+   
+}
+.skills-title {
+    text-align:center;
+    color: #c1b5bd !important;
+}
+.skills-highlighted {
+    background-color:pink !important;
+    color:white;
+}
+.skills-list button {
+    background-color:#a64073; 
+    color: #dc9c65;
+    border :2px solid #421f3a;
+    padding:10px;
+    border-radius:10px;
+    font-weight:bold;
+    cursor:pointer;
+}
+.projects2 {
+    background-color: #693953;
+    color: #dc9c65;
+    padding: 20px;
+    height: 300px;
+}
+
+.projects2 h1 {
+    text-align: center;
+}
+
+ul.project-numbers {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+ul.project-numbers li {
+    display: inline-block;
+    width: 30%;
+}
+
+.circle {
+    border-radius: 50%;
+}
